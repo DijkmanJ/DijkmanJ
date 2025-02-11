@@ -1,12 +1,27 @@
+# About Me
 
-I'm a 24 year old student at Codam Coding College, Amsterdam. 
-I'm also a part-time kite-surfing instructor in Wijk aan Zee, Noord-Holland. 
-I enjoy learning new skills and teaching others. I love problem solving and puzzles. 
-I'm currently looking for an entry position as a software developer at a company that is forward thinking and future oriented. 
-I have experience in C, C++, embedded C++, networks, web-servers and teaching. 
-Please feel free to contact me, i would be happy to answer any questions.
+I'm a 24-year-old student at **Codam Coding College, Amsterdam**. I'm also a part-time **kite-surfing instructor** in **Wijk aan Zee, Noord-Holland**. I enjoy learning new skills, solving problems, and teaching others. I'm currently looking for an **entry-level software developer** position at a **forward-thinking, future-oriented company**.
 
-<!---
-DijkmanJ/DijkmanJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+- **Programming Languages:** C, C++, Embedded C++
+- **Software Development:** Algorithm design, memory management, debugging
+- **Networking & Web Development:** HTTP/1.1, socket programming, multi-client handling, web servers
+- **Game Development:** Raycasting, graphics rendering, event handling, MiniLibX
+- **System Programming:** Process management, shell scripting, Unix system calls
+- **Tools & Technologies:** Git, Docker, GNU Make, GCC, G++, STL
+- **Teaching & Mentoring:** Experience as a tutor and kite-surfing instructor
+
+## Projects
+
+- **Webserv** – A lightweight HTTP/1.1 web server written in C++.
+- **Cub3D** – A raycasting-based 3D game engine inspired by Wolfenstein 3D.
+- **Minishell** – A Bash-like shell in C with built-in commands, pipes, and redirection.
+
+![image](https://github.com/user-attachments/assets/7d0a78a5-f904-4e76-afff-e9512becbe94)
+Frame from Cub3D project
+  
+
+## Contact
+
+Feel free to reach out! I'm happy to answer any questions or discuss potential opportunities.
