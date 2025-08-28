@@ -1,10 +1,10 @@
 # About Me
 
-I'm a 24-year-old student at **Codam Coding College, Amsterdam**. I'm also a part-time **kite-surfing instructor** in **Wijk aan Zee, Noord-Holland**. I enjoy learning new skills, solving problems, and teaching others. I'm currently looking for an **entry-level software developer** position at a **forward-thinking, future-oriented company**.
+I'm a 24-year-old student at **Codam Coding College, Amsterdam**. I'm also a part-time **kite-surfing instructor** in **Wijk aan Zee, Noord-Holland**. I enjoy learning new skills, solving problems, and teaching others. I'm currently doing an internship at Philips Medical Systems in Best..
 
 ## Skills
 
-- **Programming Languages:** C, C++, Embedded C++
+- **Programming Languages:** C, C++, Python
 - **Software Development:** Algorithm design, memory management, debugging
 - **Networking & Web Development:** HTTP/1.1, socket programming, multi-client handling, web servers
 - **Game Development:** Raycasting, graphics rendering, event handling, MiniLibX
