@@ -1,12 +1,12 @@
 # About Me
 
-I'm a 24-year-old student at **Codam Coding College, Amsterdam**. I'm also a part-time **kite-surfing instructor** in **Wijk aan Zee, Noord-Holland**. I enjoy learning new skills, solving problems, and teaching others. I'm currently doing an internship at Philips Medical Systems in Best..
+I'm a 25-year-old Intern at **Philips - IGT-innovation Software, Best**. I'm also a part-time **kite-surfing instructor** in **Wijk aan Zee, Noord-Holland**. I enjoy learning new skills, solving problems, and teaching others.
 
 ## Skills
 
 - **Programming Languages:** C, C++, Python
 - **Software Development:** Algorithm design, memory management, debugging
-- **Networking & Web Development:** HTTP/1.1, socket programming, multi-client handling, web servers
+- **Networking & Web Development:** HTTP/1.1, HTTPS, OpenApi, socket programming, multi-client handling, web servers
 - **Game Development:** Raycasting, graphics rendering, event handling, MiniLibX
 - **System Programming:** Process management, shell scripting, Unix system calls
 - **Tools & Technologies:** Git, Docker, GNU Make, GCC, G++, STL
